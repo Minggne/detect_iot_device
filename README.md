@@ -40,3 +40,4 @@
 ** 6.2. Với thiết bị
      - Code: evaluation_device.py
      - Input: danhgia_device
+     - Output: .\Đánh giá hiệu suất project\Đánh giá trên thiết bị\device_predictions.xlsx"
